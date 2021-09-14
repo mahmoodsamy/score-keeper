@@ -5,7 +5,7 @@
 
 When any player loses you cannot add any points..
 
-***i used command `HTML` , `CSS` elements and `javaScript` language to create this project..***
+***i used command `HTML` , `CSS` , `bootStrap` elements and `javaScript` language to create this project..***
 
 ### FrameWork 
 `Bulma`
